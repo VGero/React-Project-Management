@@ -1,4 +1,4 @@
-# React Core Concepts Page
+# React Project Management Page
 
 ## 🖼️ Preview
 ![Preview](./Assets/ReactProjectManagement.png)
